@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------------
-/ OCB (RFC 7523) Reference Code (Unoptimized C)   Last modified 7-JUL-2017
+/ OCB Wideblock Reference Code (Unoptimized C)  Last modified 11-MAY-2018
 /-------------------------------------------------------------------------
-/ Copyright (c) 2013, 2017 Ted Krovetz.
+/ Copyright (c) 2013, 2018 Ted Krovetz.
 /
 / Permission to use, copy, modify, and/or distribute this software for any
 / purpose with or without fee is hereby granted, provided that the above
